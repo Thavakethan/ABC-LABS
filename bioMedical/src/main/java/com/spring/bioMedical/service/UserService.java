@@ -13,8 +13,8 @@ import com.spring.bioMedical.repository.UserRepository;
 
 /**
  * 
- * @author Soumyadip Chowdhury
- * @github soumyadip007
+ * @author Thavakethan
+ * @github Thavakethan
  *
  */
 @Service("userService")

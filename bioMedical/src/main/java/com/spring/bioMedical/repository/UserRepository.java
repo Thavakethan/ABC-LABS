@@ -11,8 +11,8 @@ import org.springframework.stereotype.Repository;
 import com.spring.bioMedical.entity.User;
 /**
  * 
- * @author Soumyadip Chowdhury
- * @github soumyadip007
+ * @author Thavakethan
+ * @github Thavakethan
  *
  */
 @Repository("userRepository")

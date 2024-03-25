@@ -15,8 +15,8 @@ import org.springframework.security.web.authentication.AuthenticationSuccessHand
 
 /**
  * 
- * @author Soumyadip Chowdhury
- * @github soumyadip007
+ * @author Thavakethan
+ * @github Thavakethan
  *
  */
 @Configuration

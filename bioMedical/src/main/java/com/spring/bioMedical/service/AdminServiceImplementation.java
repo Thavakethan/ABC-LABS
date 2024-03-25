@@ -10,8 +10,8 @@ import com.spring.bioMedical.repository.AdminRepository;
 
 /**
  * 
- * @author Soumyadip Chowdhury
- * @github soumyadip007
+ * @author Thavakethan
+ * @github Thavakethan
  *
  */
 @Service

@@ -16,8 +16,8 @@ import org.springframework.security.provisioning.UserDetailsManager;
 
 /**
  * 
- * @author Soumyadip Chowdhury
- * @github soumyadip007
+ * @author Thavakethan
+ * @github Thavakethan
  *
  */
 @Configuration

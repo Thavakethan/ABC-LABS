@@ -5,8 +5,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
  * 
- * @author Soumyadip Chowdhury
- * @github soumyadip007
+ * @author Thavakethan
+ * @github Thavakethan
  *
  */
 @Controller

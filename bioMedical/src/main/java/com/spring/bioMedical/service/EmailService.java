@@ -8,8 +8,8 @@ import org.springframework.stereotype.Service;
 
 /**
  * 
- * @author Soumyadip Chowdhury
- * @github soumyadip007
+ * @author Thavakethan
+ * @github Thavakethan
  *
  */
 @Service("emailService")

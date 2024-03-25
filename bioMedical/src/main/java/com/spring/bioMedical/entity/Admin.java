@@ -13,8 +13,8 @@ import org.springframework.data.annotation.Transient;
 
 /**
  * 
- * @author Soumyadip Chowdhury
- * @github soumyadip007
+ * @author Thavakethan
+ * @github Thavakethan
  *
  */
 @Entity

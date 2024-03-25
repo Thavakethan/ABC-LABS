@@ -19,7 +19,7 @@ import com.spring.bioMedical.service.UserService;
 
 /**
  * 
- * @author Soumyadip Chowdhury
+ * @author Thavakethan
  *
  */
 @Controller

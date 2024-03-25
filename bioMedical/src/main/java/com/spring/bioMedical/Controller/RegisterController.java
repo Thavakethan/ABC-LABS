@@ -24,8 +24,8 @@ import com.spring.bioMedical.service.UserService;
 
 /**
  * 
- * @author Soumyadip Chowdhury
- * @github soumyadip007
+ * @author Thavakethan
+ * @github Thavakethan
  *
  */
 @Controller

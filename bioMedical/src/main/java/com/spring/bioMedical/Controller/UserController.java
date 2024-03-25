@@ -20,8 +20,8 @@ import com.spring.bioMedical.service.AppointmentServiceImplementation;
 
 /**
  * 
- * @author Soumyadip Chowdhury
- * @github soumyadip007
+ * @author Thavakethan
+ * @github Thavakethan
  *
  */
 @Controller
